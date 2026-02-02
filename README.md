@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Kumar;I'm+Learning+MERN+Stack+Web+Development...;%F0%9F%8C%90+Web+Developer;%3C%2F%3E+100%2B+Problems+on+Leetcode;%F0%9F%A4%96+AI+Enthusiast;Nice+to+meet+you+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=520&lines=Hi+👋,+I'm+Aman+Kumar;I'm+learning+MERN+Stack+Web+Development;🌐+Web+Developer;💻+Solved+100%2B+Problems+on+LeetCode;🤖+AI+Enthusiast;Nice+to+meet+you+😊👋)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=shubhamraj1811&label=Profile%20views&color=5689f5&style=for-the-badge" alt="amankumar849" /> 
 
